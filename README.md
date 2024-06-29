@@ -13,6 +13,13 @@ The dataset includes the following features:
 - Length2: Length from the nose to the notch of the tail in cm.
 - Length3: Total length from nose to tail in cm.
 
+# Library Packages
+
+- pandas
+- scikit-learn
+- numpy
+- matplotlib
+
 # Data Preprocessing:
 
 Load the dataset and explore the data. <br>
